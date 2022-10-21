@@ -1,0 +1,14 @@
+
+@media screen and (max-width: 576px)
+{
+    .first-nav .contact-cont-nav{
+        flex-wrap: wrap;
+    }
+    .second-nav img{
+        order: 2;
+    }   
+    .third-cont .card-cont{
+        display: flex;
+        flex-direction: column;
+    }
+}
